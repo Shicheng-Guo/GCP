@@ -1,0 +1,6 @@
+CCL3	physical	CCL4
+TRAF5	physical	CD40
+CD40	physical	TRAF5
+CCL5	genetic	CCL2
+PRLR	physical	STAT5A
+CCL4	physical	CCL3
