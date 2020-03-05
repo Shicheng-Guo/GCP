@@ -1,0 +1,2 @@
+NUM	实验组	对照组	mRNA上调	mRNA下调	mRNA差异总数	lncRNA上调	lncRNA下调	lnc差异总数
+1	2	1	119	289	408	189	244	433
